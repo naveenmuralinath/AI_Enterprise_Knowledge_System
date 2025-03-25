@@ -36,8 +36,8 @@ The application uses the following components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/naveenmuralinath/AI_Enterprise_Knowledge_System.git
-cd AI_Enterprise_Knowledge_System
+git clone https://github.com/naveenmuralinath/ai_enterprise_knowledge_system.git
+cd ai_enterprise_knowledge_system
 ```
 
 2. Install the required dependencies:
